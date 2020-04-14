@@ -6,6 +6,10 @@ Sentiment Analysis is also referred as Opinion Mining. It’s mostly used in soc
 
 In this Machine learning project on Sentiment Movie Analysis it's based on the supervised Learning. Supervised learning is the Data mining task of inferring a function from labeled training data. The training data consist of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).
 
+ # This Project
+ In this project on ***Sentiment-Movie-Analysis*** we have trained the model using nltk's movie_reviews training set and then try to predict the nature of the reviews given to a movie.
+ 
+ We have also printed the probablilty of getting a negative reviews and positive reviews at last.
  # Training Set
 We have use the NLTK’s movie_reviews corpus as our labeled training data. The movie_reviews corpus contains 2K movie reviews with sentiment polarity classification. It’s compiled by Pang, Lee.
 
