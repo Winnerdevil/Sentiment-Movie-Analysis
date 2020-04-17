@@ -22,7 +22,7 @@ So, in this project ***Bag of words*** feature is used.
 
 ### Bag of words feature shown below:
 <ul>
- <li> We have distrubute equal number of positive and negative reviews across train and test data set.</li>
+ <li> We have distribute equal number of positive and negative reviews across train and test data set.</li>
 </ul>
 
 more about ***Bag of words*** can be get from: 
