@@ -21,9 +21,19 @@ Feature Extraction is the process of learning, the model/classifier to classify 
 So, in this project ***Bag of words*** feature is used.
 
 ### Bag of words feature shown below:
-<ul>
- <li> We have distribute equal number of positive and negative reviews across train and test data set.</li>
-</ul>
+Bag of Words (BOW) is a method to extract features from text documents. These features can be used for training machine learning algorithms. It creates a vocabulary of all the unique words occurring in all the documents in the training set.
+
+In simple terms, it’s a collection of words to represent a sentence with word count and mostly disregarding the order in which they appear.
+
+BOW is an approach widely used with:
+<ol>
+<li>Natural language processing</li>
+<li>Information retrieval from documents</li>
+<li>Document classifications</li>
+</ol>
+
+we have refer this on:  
+https://www.freecodecamp.org/news/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04/
 
 more about ***Bag of words*** can be get from: 
 https://en.wikipedia.org/wiki/Bag-of-words_model
