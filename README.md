@@ -9,14 +9,14 @@ In this Machine learning project on Sentiment Movie Analysis it's based on the s
  # This Project
  In this project on ***Sentiment-Movie-Analysis*** we have trained the model using nltk's movie_reviews training set and then try to predict the nature of the reviews given to a movie.
  
- We have also printed the probablilty of getting a negative reviews and positive reviews at last.
+ We have also printed the probabililty of getting a negative reviews and positive reviews at last.
  # Training Set
 We have use the NLTK’s movie_reviews corpus as our training data. The movie_reviews corpus contains 2K movie reviews with it's classification. It is been given by Pang, Lee.
 
 In the movie_reviews corpus they have already classifies the two category named positive and negative. So it is easy to work on this data.
 
 # Feature Extraction
-Feature Extraction is the proccess of learning, the model/classifier to classify the particular text into its category(here, positive and negative). And there can be many features to train the model/classifier.
+Feature Extraction is the process of learning, the model/classifier to classify the particular text into its category(here, positive and negative). And there can be many features to train the model/classifier.
 
 So, in this project ***Bag of words*** feature is used.
 
