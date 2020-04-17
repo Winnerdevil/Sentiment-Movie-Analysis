@@ -11,20 +11,18 @@ In this Machine learning project on Sentiment Movie Analysis it's based on the s
  
  We have also printed the probablilty of getting a negative reviews and positive reviews at last.
  # Training Set
-We have use the NLTK’s movie_reviews corpus as our labeled training data. The movie_reviews corpus contains 2K movie reviews with sentiment polarity classification. It’s compiled by Pang, Lee.
+We have use the NLTK’s movie_reviews corpus as our training data. The movie_reviews corpus contains 2K movie reviews with it's classification. It is been given by Pang, Lee.
 
-Here, we have two categories for classification. They are: positive and negative. The movie_reviews corpus already has the reviews categorized as positive and negative.
+In the movie_reviews corpus they have already classifies the two category named positive and negative. So it is easy to work on this data.
 
 # Feature Extraction
-To classify the text into any category, we need to define some criteria. On the basis of those criteria, our classifier will learn that a particular kind of text falls in a particular category. This kind of criteria is known as feature. We can define one or more feature to train our classifier.
+Feature Extraction is the proccess of learning, the model/classifier to classify the particular text into its category. Ad there can be many features to train the model/classifier.
 
 So, in this project ***Bag of words*** feature is used.
 
 ### Bag of words feature shown below:
 <ul>
-<li>We will use all the useful words of each review while creating the feature set.</li>
-<li>We take a fixed number of positive and negative reviews for train and test set.</li>
-<li>This results in equal distribution of positive and negative reviews across train and test set.</li>
+ <li> We have distrubute equal number of positive and negative reviews across train and test data set.<li>
 </ul>
 
 more about ***Bag of words*** can be get from: 
