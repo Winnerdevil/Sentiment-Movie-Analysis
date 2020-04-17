@@ -16,7 +16,7 @@ We have use the NLTK’s movie_reviews corpus as our training data. The movie_re
 In the movie_reviews corpus they have already classifies the two category named positive and negative. So it is easy to work on this data.
 
 # Feature Extraction
-Feature Extraction is the proccess of learning, the model/classifier to classify the particular text into its category. And there can be many features to train the model/classifier.
+Feature Extraction is the proccess of learning, the model/classifier to classify the particular text into its category(here, positive and negative). And there can be many features to train the model/classifier.
 
 So, in this project ***Bag of words*** feature is used.
 
