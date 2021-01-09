@@ -29,10 +29,9 @@ BOW is an approach widely used with:
 <li>Document classifications</li>
 </ol>
 
-we have refer this on:  
+more about ***Bag of words*** can be get from: <br>
 https://www.freecodecamp.org/news/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04/
 
-more about ***Bag of words*** can be get from: 
 https://en.wikipedia.org/wiki/Bag-of-words_model
 
 
